@@ -1,0 +1,66 @@
+[
+  {
+    "img": "https://source.unsplash.com/random/800x600",
+    "brand": "Some brand",
+    "url": "sloaneboutique.gr",
+    "service": "Google Analytics, Facebook Pixel",
+    "social": [
+      {
+        "link": "https://facebook.com",
+        "name": "Facebook"
+      },
+      {
+        "link": "https://instagram.com",
+        "name": "Instagram"
+      }
+    ]
+  },
+  {
+    "img": "https://source.unsplash.com/random/800x600",
+    "brand": "Some brand",
+    "url": "myacollection.gr",
+    "service": "Google Analytics, Facebook Pixel",
+    "social": [
+      {
+        "link": "https://facebook.com",
+        "name": "Facebook"
+      },
+      {
+        "link": "https://instagram.com",
+        "name": "Instagram"
+      }
+    ]
+  },
+  {
+    "img": "https://source.unsplash.com/random/800x600",
+    "brand": "Some brand",
+    "url": "sloaneboutique.gr",
+    "service": "Google Analytics, Facebook Pixel",
+    "social": [
+      {
+        "link": "https://facebook.com",
+        "name": "Facebook"
+      },
+      {
+        "link": "https://instagram.com",
+        "name": "Instagram"
+      }
+    ]
+  },
+  {
+    "img": "https://source.unsplash.com/random/800x600",
+    "brand": "Some brand",
+    "url": "sloaneboutique.gr",
+    "service": "Google Analytics, Facebook Pixel",
+    "social": [
+      {
+        "link": "https://facebook.com",
+        "name": "Facebook"
+      },
+      {
+        "link": "https://instagram.com",
+        "name": "Instagram"
+      }
+    ]
+  }
+]
